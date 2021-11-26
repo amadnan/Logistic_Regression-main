@@ -1,1 +1,2 @@
-# Logistic_Regression-main
+# Logistic_Regression
+ Binary and multiclass 
